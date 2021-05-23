@@ -4,6 +4,10 @@ html, body
   margin: 0;
 }
 
+.b1 {
+	background-color: #d32bf5;
+}
+
 body
 {
 background-image: linear-gradient(to right top, #dc96f1, #d32bf5, #9a18c1, #770aaa, #510094);
